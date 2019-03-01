@@ -2,6 +2,8 @@
 ---
 https://github.com/go-pg/pg
 
+https://github.com/go-pg/pg/wiki/Writing-Queries
+
 ```
 go get -u github.com/go-pg/pg
 ```
